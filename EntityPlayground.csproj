@@ -21,7 +21,11 @@
 
   <ItemGroup>
     <Folder Include="src/TutorialProject.Application/" />
+    <Folder Include="src/TutorialProject.Application/Interfaces/" />
+    <Folder Include="src/TutorialProject.Application/Services/" />
+    <Folder Include="src/TutorialProject.Domain/DTOs/" />
     <Folder Include="src/TutorialProject.Presentation/" />
+    <Folder Include="src/TutorialProject.Presentation/Controllers/" />
   </ItemGroup>
 
 </Project>
